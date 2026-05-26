@@ -1,0 +1,6 @@
+{
+  "name": "Global Computer Center",
+  "description": "Student management, online enrollments, exam results, certificate verification, attendance tracking, and administrative analytics for Global Computer Center, Civil Line.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
